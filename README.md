@@ -12,7 +12,7 @@ Fisher_Andy__DA301_Assignment_Notebook.ipynb a jupyter notebook of the python co
 
 Fisher_Andy__DA301_Assignment_Rscript.R an R script of the code used to clean, explore and analyse the sales dataset, along with commentary to explain methodology and results.
 
-Fisher_Andy_DA301_Assignment_Presentation - a short presentation outlining the objectives, analysis process, key insights and recommendations.
+Fisher_Andy_DA301_Assignment_Presentation.mp4 - a short presentation outlining the objectives, analysis process, key insights and recommendations.
 
 
 Owner and producer: Andy Fisher
