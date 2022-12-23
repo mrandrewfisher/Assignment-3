@@ -2,7 +2,7 @@
 
 Turtle Games 
 
-Project description: NHS analysis investigating network capacity, resource utilisation and themes of missed appointments
+Project description: Turtle Games has a business objective of improving overall sales performance by utilising customer trends.  
 
 This Github repository contains the following:
 
